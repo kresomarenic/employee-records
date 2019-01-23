@@ -1,0 +1,7 @@
+C:\Kreso_privat\VVG\OOP\Evidencija_zaposlenika\EvidencijaZaposlenika\EvidencijaZaposlenika\bin\Debug\EvidencijaZaposlenika.exe.config
+C:\Kreso_privat\VVG\OOP\Evidencija_zaposlenika\EvidencijaZaposlenika\EvidencijaZaposlenika\bin\Debug\EvidencijaZaposlenika.exe
+C:\Kreso_privat\VVG\OOP\Evidencija_zaposlenika\EvidencijaZaposlenika\EvidencijaZaposlenika\bin\Debug\EvidencijaZaposlenika.pdb
+C:\Kreso_privat\VVG\OOP\Evidencija_zaposlenika\EvidencijaZaposlenika\EvidencijaZaposlenika\obj\Debug\EvidencijaZaposlenika.csprojResolveAssemblyReference.cache
+C:\Kreso_privat\VVG\OOP\Evidencija_zaposlenika\EvidencijaZaposlenika\EvidencijaZaposlenika\obj\Debug\EvidencijaZaposlenika.exe
+C:\Kreso_privat\VVG\OOP\Evidencija_zaposlenika\EvidencijaZaposlenika\EvidencijaZaposlenika\obj\Debug\EvidencijaZaposlenika.pdb
+C:\Kreso_privat\VVG\OOP\Evidencija_zaposlenika\EvidencijaZaposlenika\EvidencijaZaposlenika\bin\Debug\ConsoleUtilities.dll
